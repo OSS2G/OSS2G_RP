@@ -46,4 +46,4 @@
 위와 같은 역사를 거쳐 이제 오픈소스 소프트웨어는 소프트웨어의 한 축을 잡게 됐다.
 
 
-참고문헌 :https://www.oss.kr/news/show/98dd7972-4f14-4c38-93e2-4b5108c05dcf
+[참고문헌](https://www.oss.kr/news/show/98dd7972-4f14-4c38-93e2-4b5108c05dcf)
