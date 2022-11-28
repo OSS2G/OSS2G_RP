@@ -1,7 +1,7 @@
 ## Linux
 ![사진1](https://www.kernel.org/theme/images/logos/tux.png)
 - 좁게는 Unix 기반의 운영체제를 의미하며, 넓게는 GNU 소프트웨어를 포함(GNU/Linux)
-- 리누스 토르발스가 개발해, 현재는 가장 많은 사용자를 보유한 오픈소스 운영체제로 성장함
+- 리누스 토르발스가 개발해, 현재는 가장 많은 사용자를 보유한 오픈소스 소프트웨어로 성장함
 - 웹 서버, 클라우드, 임베디드 기기 등에서 사용되며 특히 **안드로이드**는 리눅스를 기반으로 개발됨
 - 일반 사용자는 우분투, 페도라 등의 배포판을 사용할 수 있음
 
@@ -16,7 +16,7 @@
 <img src="https://w.namu.la/s/ef4073a2a2b4b32764761588586e91252083189c535a546218d0d90aaaf1a9a7d3bda94f20a78344c0aa51e7b242b0ed749419e82a8977af956c099710070dd186b5c9fc35df49c4dcc03f25ec704b4d41f50144ab0d3e5d92258fdc9d2700fe" width="100" height="100"/>
 
 - 메타(Facebook)에서 개발한 오픈소스 Javascript 라이브러리  
-- 동적인 페이지 환경에서 매우 빠르게 작업을 처리할 수 있는 장점
+- Virtual DOM이라는 기능을 이용해 동적인 페이지 환경에서 매우 빠르게 작업을 처리할 수 있는 장점
 - React와 비슷한 문법으로 모바일(Android, IOS) 앱을 개발할 수 있는 React Native도 오픈소스로 배포 중
 
 ## Tensorflow, pytorch
